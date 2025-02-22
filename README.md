@@ -1,4 +1,3 @@
-Here's a basic structure for a `README.md` file that explains the functionality and usage of the provided code:
 
 ---
 
